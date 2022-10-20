@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mlaura1996
-- 👀 I’m interested in #python #gmsh #ifcopensheel #opensees
+- 👀 I’m interested in #python #gmsh #ifcopensheel #opensees #opencascade #C++
 - 🌱 I’m currently learning how to use gmsh
 - 💞️ I’m looking to collaborate on structural analysis of historic construction
 - 📫 How to reach me ... mlauraleonardi@gmail.com
