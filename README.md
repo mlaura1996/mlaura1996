@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mlaura1996
 - 👀 I’m interested in #python #gmsh #ifcopensheel #opensees #opencascade #C++
-- 🌱 I’m currently learning how to use gmsh
+- 🌱 I’m currently developing my OpenBIM app for finite element analysis featuring OpenSees
 - 💞️ I’m looking to collaborate on structural analysis of historic construction
 - 📫 How to reach me ... mlauraleonardi@gmail.com
 
